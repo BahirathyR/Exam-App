@@ -20,7 +20,6 @@ const ExamTableList = () => {
             const result = await fetch('http://localhost:8000/result').then((res) => {
                   return res.json();
             }).then((response) => {
-                  console.log("test==it", response)
                    setResult(response)
                   const resultData = response.map((item) => {
                         const scoreData = {

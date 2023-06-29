@@ -34,9 +34,6 @@ export const AddQuestions = () => {
       const [valid, setValid] = useState(false);
 
       const handleSubmit = async (e) => {
-
-            console.log("test==", JSON.stringify(values))
-
             const result = await fetch('http://localhost:8000/examQuestions', {
                   method: "POST",
                   headers: { "content-type": "application/json" },
@@ -74,7 +71,7 @@ export const AddQuestions = () => {
                                     placeholder="id"
                                     disabled={true}
                                     name="question"
-                                    value={values.id+1}
+                                    value={values.id + 1}
                                     onChange={handleInputChange}
                               />
                         )}

@@ -7,7 +7,6 @@ import 'ag-grid-community/styles/ag-theme-alpine.css';
 
 
 export default function AgGirdReact({ columnDefs, rowData, pagination = true, height = '50vh', showGrid,width ='120%'}) {
-      console.log("row==", rowData)
       const headerHeight = 80;
       const defaultColDef = useMemo(() => {
             return {
