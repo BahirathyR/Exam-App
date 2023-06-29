@@ -1,0 +1,36 @@
+
+$primary: blue;
+$accent: #d88642;
+$bg: #ffffff;
+$bg-acent: #e7e8e9;
+$disabled: #9c9c9c;
+$foreground: #2d264b;
+button {
+      background: rgb(158, 135, 222);
+      border-radius: 9px;
+      font-size: 18px;
+      color:$bg;
+      padding: 10px 42px;
+      outline: none;
+      border:none;
+      margin-bottom: 15px;
+      cursor: pointer;
+      align-items: center;
+      &:disabled{
+        background: $bg-acent;
+        color: $disabled;
+        cursor: not-allowed;
+      }
+    }
+    table{
+      width: 100%;
+      text-align: left;
+      margin: 0px;
+      border-collapse: collapse;
+
+      tr{
+        border: 1px solid;
+      }
+
+    }
+

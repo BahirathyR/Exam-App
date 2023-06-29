@@ -8,7 +8,7 @@ $foreground: #2d264b;
 body {
   font-family: monospace;
   // background: linear-gradient(0deg, $primary 0.03%, $accent);
-  background-color: $foreground;
+  background-color: blueviolet;
   display: flex;
   justify-content: center;
   margin: 0 auto;
@@ -33,6 +33,7 @@ body {
   font-weight: 500;
   color: $disabled;
 }
+
 h2 {
   font-size: 20px;
   font-weight: 500;
@@ -95,4 +96,38 @@ table{
 
 }
 
+}
+h1 {
+  margin-left: 50px;
+  margin-bottom: 10%;
+}
+
+.button{
+  display:flex;
+  width:60%
+}
+.btn-primary{
+  background-color:rgb(158, 135, 222);
+  margin-right: 4%;
+
+ }
+.btn-secondary{
+  background-color: rgb(111, 0, 255);
+  margin-left: 2%;
+ }
+ .btn-res{
+  background-color: rgb(150, 92, 205);
+  margin-left: 5%;
+ }
+ .btn-ans-report{
+  background-color: rgb(154, 92, 205);
+  margin-left: 4%;
+ }
+ .card {
+  /* Add shadows to create the "card" effect */
+  display: flex;
+  box-shadow: 0 4px 8px 0 rgba(255, 252, 70, 0.2);
+  transition: 0.3s;
+  width: 100%;
+  justify-content: center;
 }

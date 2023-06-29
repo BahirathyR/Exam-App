@@ -1,0 +1,403 @@
+{
+  "examQuestions": [
+    {
+      "id": "i5LYR83",
+      "question": "what is React Js",
+      "options": [
+        "Server side frameWork",
+        "User Interface framework",
+        "both a and b",
+        "none of the above"
+      ],
+      "type": "MCQS",
+      "correctAns": "User Interface framework"
+    },
+    {
+      "id": "cFdiAYN",
+      "question": "which of the following is used in increase React js performance",
+      "options": [
+        "virtual dom",
+        "original dom",
+        "both a and b",
+        "none of the above"
+      ],
+      "type": "MCQS",
+      "correctAns": "virtual dom"
+    },
+    {
+      "id": "4lcLtOW",
+      "question": "How to pass data in react js?",
+      "options": [
+        "props",
+        "state",
+        "array",
+        "none of the above"
+      ],
+      "type": "MCQS",
+      "correctAns": "props"
+    },
+    {
+      "id": "egXAesz",
+      "question": "how old are you?",
+      "options": [
+        "25",
+        "35",
+        "40",
+        "45"
+      ],
+      "type": "MCQS",
+      "correctAns": "35"
+    },
+    {
+      "id": "ESlnvjo",
+      "question": "your Location",
+      "options": [
+        "chennai",
+        "madurai",
+        "tanjor",
+        "tircy"
+      ],
+      "type": "MCQS",
+      "correctAns": "chennai"
+    }
+  ],
+  "reports": [
+    {
+      "id": "",
+      "result": 0
+    },
+    {
+      "result": {
+        "score": 0,
+        "correctAns": 0,
+        "percentage": 0,
+        "wrongAnswers": 0,
+        "questions": 3
+      },
+      "id": "M-PryW_"
+    },
+    {
+      "result": {
+        "score": 0,
+        "correctAns": 0,
+        "percentage": 0,
+        "wrongAnswers": 0
+      },
+      "id": "4ZhzQIa"
+    },
+    {
+      "result": {
+        "score": 5,
+        "correctAns": 1,
+        "percentage": "20%",
+        "wrongAnswers": 0,
+        "questions": 5
+      },
+      "id": "mM9q_RP"
+    },
+    {
+      "result": {
+        "score": 10,
+        "correctAns": 2,
+        "percentage": "40%",
+        "wrongAnswers": 0,
+        "questions": 5
+      },
+      "id": "R7EEvm-"
+    },
+    {
+      "result": {
+        "score": 15,
+        "correctAns": 3,
+        "percentage": "60%",
+        "wrongAnswers": 0,
+        "questions": 5
+      },
+      "id": "v_wdlgI"
+    },
+    {
+      "result": {
+        "score": 20,
+        "correctAns": 4,
+        "percentage": "80%",
+        "wrongAnswers": 0,
+        "questions": 5
+      },
+      "id": "j2IeIUr"
+    },
+    {
+      "result": {
+        "score": 0,
+        "correctAns": 0,
+        "percentage": 0,
+        "wrongAnswers": 0
+      },
+      "id": "Ey-mNiv"
+    },
+    {
+      "result": {
+        "score": 5,
+        "correctAns": 1,
+        "percentage": "20%",
+        "wrongAnswers": 0,
+        "questions": 5
+      },
+      "id": "n2sNjxG"
+    },
+    {
+      "result": {
+        "score": 10,
+        "correctAns": 2,
+        "percentage": "40%",
+        "wrongAnswers": 0,
+        "questions": 5
+      },
+      "id": "35VM4tK"
+    },
+    {
+      "result": {
+        "score": 10,
+        "correctAns": 2,
+        "percentage": "40%",
+        "wrongAnswers": 1,
+        "questions": 5
+      },
+      "id": "EOSfRVD"
+    },
+    {
+      "result": {
+        "score": 15,
+        "correctAns": 3,
+        "percentage": "60%",
+        "wrongAnswers": 1,
+        "questions": 5
+      },
+      "id": "D5S3UPJ"
+    },
+    {
+      "result": {
+        "score": 0,
+        "correctAns": 0,
+        "percentage": 0,
+        "wrongAnswers": 0
+      },
+      "id": "DZhL63h"
+    },
+    {
+      "result": {
+        "score": 0,
+        "correctAns": 0,
+        "percentage": 0,
+        "wrongAnswers": 1
+      },
+      "id": "jEAP-Ds"
+    },
+    {
+      "result": {
+        "score": 0,
+        "correctAns": 0,
+        "percentage": 0,
+        "wrongAnswers": 2
+      },
+      "id": "BQ3nAAp"
+    },
+    {
+      "result": {
+        "score": 5,
+        "correctAns": 1,
+        "percentage": "20%",
+        "wrongAnswers": 2,
+        "questions": 5
+      },
+      "id": "e_hnvl7"
+    },
+    {
+      "result": {
+        "score": 10,
+        "correctAns": 2,
+        "percentage": "40%",
+        "wrongAnswers": 2,
+        "questions": 5
+      },
+      "id": "rlB3Ku2"
+    },
+    {
+      "result": {
+        "score": 0,
+        "correctAns": 0,
+        "percentage": 0,
+        "wrongAnswers": 0
+      },
+      "id": "SbP-B9U"
+    },
+    {
+      "result": {
+        "score": 0,
+        "correctAns": 0,
+        "percentage": 0,
+        "wrongAnswers": 1
+      },
+      "id": "qyLMJS2"
+    },
+    {
+      "result": {
+        "score": 5,
+        "correctAns": 1,
+        "percentage": "20%",
+        "wrongAnswers": 1,
+        "questions": 5
+      },
+      "id": "3S9MVY7"
+    },
+    {
+      "result": {
+        "score": 10,
+        "correctAns": 2,
+        "percentage": "40%",
+        "wrongAnswers": 1,
+        "questions": 5
+      },
+      "id": "Tg_5P4u"
+    },
+    {
+      "result": {
+        "score": 15,
+        "correctAns": 3,
+        "percentage": "60%",
+        "wrongAnswers": 1,
+        "questions": 5
+      },
+      "id": "Dp0184p"
+    },
+    {
+      "result": {
+        "score": 0,
+        "correctAns": 0,
+        "percentage": 0,
+        "wrongAnswers": 0
+      },
+      "id": "Uw4A3kJ"
+    },
+    {
+      "result": {
+        "score": 0,
+        "correctAns": 0,
+        "percentage": 0,
+        "wrongAnswers": 1
+      },
+      "id": "5W9cAMU"
+    },
+    {
+      "result": {
+        "score": 5,
+        "correctAns": 1,
+        "percentage": "20%",
+        "wrongAnswers": 1,
+        "questions": 5
+      },
+      "id": "bSOeHlq"
+    },
+    {
+      "result": {
+        "score": 10,
+        "correctAns": 2,
+        "percentage": "40%",
+        "wrongAnswers": 1,
+        "questions": 5
+      },
+      "id": "l1ppTdg"
+    },
+    {
+      "result": {
+        "score": 15,
+        "correctAns": 3,
+        "percentage": "60%",
+        "wrongAnswers": 1,
+        "questions": 5
+      },
+      "id": "9P6pAT4"
+    }
+  ],
+  "result": [
+    {
+      "name": "bahi",
+      "email": "rathy@gmail.com",
+      "dob": "20/10/1985",
+      "score": 10,
+      "correctAnswer": 2,
+      "questions": 3,
+      "percentage": "66%",
+      "id": "hr78-89"
+    },
+    {
+      "name": "rathy",
+      "email": "bahi@gmail.com",
+      "dob": "10/10/2000",
+      "score": 10,
+      "questions": 3,
+      "correctAnswer": 2,
+      "percentage": "70%",
+      "id": "ZOJMYqb"
+    },
+    {
+      "name": "patrick",
+      "email": "raj@gmail.com",
+      "dob": "5/3/2007",
+      "score": 15,
+      "questions": 3,
+      "correctAnswer": 3,
+      "percentage": "100%",
+      "id": "p4TOX_d"
+    },
+    {
+      "name": "bahirathy",
+      "email": "r@gmail.com",
+      "dob": "3/3/1998",
+      "score": 15,
+      "correctAnswer": 3,
+      "questions": 4,
+      "percentage": "75%",
+      "id": "Pk6jtBI"
+    },
+    {
+      "name": "jayashimman",
+      "email": "shimman@gmail.com",
+      "dob": "10/2/1988",
+      "score": 25,
+      "correctAnswer": 5,
+      "percentage": "100%",
+      "questions": 5,
+      "id": "klRo73e"
+    },
+    {
+      "name": "test",
+      "email": "test@gmail.com",
+      "dob": "20/10/1999",
+      "score": 20,
+      "correctAnswer": 4,
+      "percentage": "80%",
+      "questions": 5,
+      "id": "muiqXHE"
+    },
+    {
+      "name": "",
+      "email": "",
+      "dob": "",
+      "score": 15,
+      "correctAnswer": 3,
+      "percentage": "60%",
+      "questions": 5,
+      "id": "w_xIzW4"
+    },
+    {
+      "name": "",
+      "email": "",
+      "dob": "",
+      "score": 15,
+      "correctAnswer": 3,
+      "percentage": "60%",
+      "questions": 5,
+      "id": "xfXStuB"
+    }
+  ]
+}
